@@ -1,1 +1,3 @@
 Venus has some interesting properties that may make it a good base. 
+
+It will kill non-undead base members with the pressure.
